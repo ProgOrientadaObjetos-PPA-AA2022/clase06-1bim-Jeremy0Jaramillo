@@ -1,0 +1,14 @@
+Datos de Vendedor
+Nombre: JERME
+Edad: 12
+Salario mínimo: 139,00
+Número de autos: 1
+Pago mensual: 289,00
+
+Datos de Vendedor
+Nombre: NOSAJDA
+Edad: 43
+Salario mínimo: 1230,00
+Número de autos: 12
+Pago mensual: 3030,00
+
