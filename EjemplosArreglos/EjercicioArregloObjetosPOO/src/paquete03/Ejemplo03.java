@@ -7,13 +7,11 @@ package paquete03;
 
 import paquete01.Calificacion;
 
-public class EjemploDos {
+public class Ejemplo03 {
     public static void main(String[] args) {
         // crear un arreglo de objetos de tipo Calificacion
-        Calificacion c = new Calificacion(10, "Computación");
-        Calificacion c2 = new Calificacion(9, "Electrónica");
-        
-        Calificacion [] calificaciones = {c, c2};
+        Calificacion [] calificaciones = {new Calificacion(10, "Computación"), 
+            new Calificacion(9, "Electrónica")};
         
         for (int i = 0; i < calificaciones.length; i++) {
             Calificacion objetoCalificacion = calificaciones[i];
